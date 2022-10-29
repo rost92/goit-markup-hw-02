@@ -1,6 +1,77 @@
 .body{
-    font-family: 'Roboto', sans-serif;
+    font-family: 'Roboto';
+    color: #212121;
 }
-.button{
+.feader a{
+color: #212121;
+}
+.feader-nav-link{
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 1.1428;
+    letter-spacing: 0.02em;
+    text-decoration: none;
+    color: #212121 
+}
+.feader-nav-link:hover,
+.feader-nav-link:focus {
+    color: #2196F3;
+}
+
+.logo{
+    list-style: none;
+    text-decoration: none;
+
+}
+.list{
+    list-style: none;
+    text-decoration: none;
+
+}
+.feader-contact{
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 1.1428;
+    letter-spacing: 0.02em;
+    text-decoration: none;
+    text-decoration: none;
+    color: #212121 
+}
+.hero{
+    background-color: #2F303A;
+}
+.hero-title{
+    font-weight: 900;
+    font-size: 44px;
+    line-height: 1.3636;
+    text-align: center;
+    letter-spacing: 0.06em;
+    text-transform: uppercase;
+    color: #ffffff;
+}
+.hero-btn{
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 1.875;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    letter-spacing: 0.06em;
+    background-color: #2196F3;
+    color: #ffffff;
+    font-family: 'Roboto'
   
+}
+.section{
+
+}
+
+.features{
+
+}
+.features-text{
+
+}
+.features-title{
+
 }
